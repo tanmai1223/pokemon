@@ -107,4 +107,7 @@ If you have any suggestions or questions, feel free to connect with me:
 🔗 [LinkedIn – Hekkadka Tanmai](https://www.linkedin.com/in/htanmai)  
 📧 htanmai23@gmail.com 
 
+## 📄 License
+
+This project is open-source and free to use.
 
