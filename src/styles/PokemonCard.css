@@ -1,0 +1,38 @@
+.pokemon-card {
+  position: relative;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  text-align: center;
+  background-color: white;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.pokemon-card:hover {
+  transform: translateY(-5px);
+}
+
+.pokemon-image {
+  width: 100px;
+  height: 100px;
+}
+
+.pokemon-name {
+  text-transform: capitalize;
+  margin: 10px 0 5px;
+}
+.favourite-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: none;
+  border: none;
+  font-size: 48px;
+  cursor: pointer;
+  color: gray;
+  transition: transform 0.2s ease;
+}
+
+.favourite-button:hover {
+  transform: scale(1.2);
+}
