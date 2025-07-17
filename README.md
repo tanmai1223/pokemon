@@ -62,7 +62,7 @@ A fully responsive and interactive **Pokémon Directory** built using **React.js
 ## 🧑‍💻 Getting Started
 
 To run this app locally:
-``bash
+```bash
 git clone (https://github.com/tanmai1223/pokemon)
 cd pokemon-directory
 npm install
