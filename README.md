@@ -62,12 +62,12 @@ A fully responsive and interactive **Pokémon Directory** built using **React.js
 ## 🧑‍💻 Getting Started
 
 To run this app locally:
-
-```bash
-git clone https://github.com/yourusername/pokemon-directory.git
+``bash
+git clone (https://github.com/tanmai1223/pokemon)
 cd pokemon-directory
 npm install
 npm start
+```
 
 Open http://localhost:3000 in your browser.
 
@@ -80,7 +80,7 @@ Note: Login uses static credentials defined inside the code (no real auth or bac
 
 
 ## 📁 Folder Structure
-
+```bash
 pokemon-directory/
 ├── public/
 ├── src/
@@ -91,7 +91,7 @@ pokemon-directory/
 ├── package.json
 ├── README.md
 
-
+```
 ## 🧠 What I Learned
 
 - How to use React Router for dynamic navigation
